@@ -1,6 +1,6 @@
 # Kevin Reid's Radio Software Wishlist
 
-The issue tracker of this repository is a list of problems and desirable features I see, with GNU Radio and related software, which I wish other people would work on.
+[The issue tracker of this repository](https://github.com/kpreid/radio-wishlist/issues) is a list of problems and desirable features I see, with GNU Radio and related software, which I wish other people would work on.
 
 * I justify bothering to publish such wishes on the grounds that the majority of them are of benefit to everyone, not just my own work.
 
